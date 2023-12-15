@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with BrainGhost
+          Learn Go from Balibonera junior
         </a>
       </header>
     </div>
